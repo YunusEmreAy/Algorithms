@@ -1,4 +1,4 @@
-# Dijkstra's  "Shortest Path" Algoritması
+# Dijkstra's  "Shortest Path" Algorithm
 
 - Metin "Main.txt" dosyasında verteks, edges ve komşuluk matris değerleri bulunmaktadır. 
 - Başlangıç noktası ve bitiş noktası seçilerek algoritma başlatılmaktadır.
