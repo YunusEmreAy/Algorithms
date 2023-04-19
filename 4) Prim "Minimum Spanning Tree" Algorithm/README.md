@@ -8,4 +8,4 @@
 ------------
 **Videolu Anlatım için Aşağıdaki Linki Kullanabilirsiniz.**
 
-[Videolu Anlatım](https://www.youtube.com/watch?v=U-VZwepqj50 "Videolu Anlatım")
+[Videolu Anlatım](https://www.youtube.com/watch?v=U-VZwepqj50 "Videolu Anlatım") 
