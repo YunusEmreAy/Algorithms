@@ -1,4 +1,4 @@
-# Yunus Emre Ay / E-posta:TR.yunus.emre.ay.gmail.com
+# Yunus Emre Ay / E-posta:TR.yunus.emre.ay@gmail.com
 
 with open("Main.txt", "r", encoding="utf-8") as file:
 
